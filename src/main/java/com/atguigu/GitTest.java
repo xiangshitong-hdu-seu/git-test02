@@ -5,5 +5,7 @@ public class GitTest {
         System.out.println("我的git呢？");
         System.out.println("caocaocao");
         System.out.println("my test2");
+        System.out.println("pull测试加入的代码");
+        
     }
 }
